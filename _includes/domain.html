@@ -1,0 +1,18 @@
+{% assign domains = site.data.data.sidebar.domains %}
+{% if domains %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Languages
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for domain in domains %}
+    <li>
+      {{ domain.idiom }}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
