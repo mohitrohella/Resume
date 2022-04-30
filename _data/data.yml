@@ -34,6 +34,19 @@ sidebar:
 
       - idiom: Hindi
         level: Native
+    
+    domains:
+      - idiom: Finance
+        level:  
+
+      - idiom: Health Care
+        level: 
+        
+      - idiom: Insurance
+        level: 
+        
+      - idiom: Travel
+        level: 
 
     interests:
       - item: Music
@@ -48,16 +61,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Full stack developer with over 16 years of professional experience in design and developing business solutions primarily in Javascript and .Net ecosystem.
+      - Good exposure to each of the phases of SDLC especially Agile Model, developing projects from stage of concept to full implementation.
+      - Hands-on experience in building Enterpise applications including technologies like React, Angular, Micro-services, Web APIs, MVC, ORMs, Cloud based techologies etc.
+      - Proven ability to lead, manage project resources, interact with clients, coordinate and work in achieving high levels of productivity and efficiency in complex, dynamic and challenging environments.
+      - Proven mentor and training with expertise in communicating across organizational levels and with cross-functional teams to drive shared vision and foster culture of excellence
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Computer Applications
+      university: IGNOU (Delhi)
+      time: 1999 - 2001
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +79,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Computer Applications
+      university: IGNOU (Delhi)
+      time: 1996 - 1998
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
