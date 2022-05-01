@@ -177,6 +177,13 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
+skillset:
+    - category: Frontend
+      names: React, Angular, JavaScript, Typescript, HTML, CSS, WPF, OpenFin
+      
+    - category: Backend
+      names: C#, .Net Core, NodeJS, MVC5.0, ASP.Net Web APIs, Entity Framework, WCF
+
 skills:
     title: Skills &amp; Proficiency
 
